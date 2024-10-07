@@ -24,7 +24,7 @@
 
 ✇ Also you need to create a particular directory for getting started with **Pycharm**. 
 
-✐ Note : For any kind of further explanation regarding **Pycharm** here is the [Link]() to learn more about this ToolKit.
+✐ Note : For any kind of further explanation regarding **Pycharm** here is the [Link](https://youtu.be/Vig1IeU2RYk?si=aaIOjMRJu4xnwaZJ) to learn more about this ToolKit.
 
 ## 📑 Feeback Request 🔍
 
