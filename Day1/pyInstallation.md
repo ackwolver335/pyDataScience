@@ -61,3 +61,11 @@ sudo apt install python3-pip
 ```
 
 ✐ Note : On windows we have IDLE but on Ubuntu we can simply run it on the **Terminal** or Integrated bash over to the well known Code Editor **VS Code**.
+
+## 📑 Feeback Request 🔍
+
+➱ Everyone, visiting these helpful notes or information, its owner's humble request to please provide the feedback in the Discussion Page of our Repo for making more better improvement in our learning Resources.
+
+➱ **Discussion Center** will be available soon for discussion regarding **Data Science** with the use of Python.
+
+➱ Thanks for visiting my Repository, hope you find it useful. Let's [connect](https://github.com/ackwolver335) and collaborate for building 🏗️ something amazing 🗿
