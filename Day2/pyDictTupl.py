@@ -46,6 +46,12 @@ print("Dictionary after clearing all data is : " + str(dict1))
 points = (3,4,5,6)                              # coordinates of the line
 
 # accessing the data in the similar way that we use for lists
-print("First element of the Tuple is : " + points[0])
+print("First element of the Tuple is : " + str(points[0]))
 
 # Tuples are immutables and can't be changed in its values once it is assigned.
+# importing the required modules
+
+import pyModules as pM
+
+# using the methods of another file or user defined custom python module
+print(pM.getProduct(34,23))
