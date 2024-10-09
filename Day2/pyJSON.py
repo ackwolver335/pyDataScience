@@ -30,11 +30,9 @@ s1 = json.dumps(book)               # here we have dumped the Book and its data 
 print(s1)
 
 # Now let us write this to a particular file
-"""
-    with open("/home/ackwolver/Documents/GithubData/DataScience/Day2/book.json","w") as file:
-        file.write(s1)
-        file.close()
-"""
+with open("/home/ackwolver/Documents/GithubData/DataScience/Day2/book.json","w") as file:
+    file.write(s1)
+    file.close()
 
 # Now let us try reading the data after opening the file
 f1 = open("book.json","r")
