@@ -44,3 +44,7 @@ loaded_data = json.loads(file_data)
 print(loaded_data)
 
 # you can try printing the data elements as the loaded_data is now a dictionary
+# trying the concept of __name__ and __main__ inside this file by importing the module here
+import pynameMain as pm
+
+print(pm.getSum(34,56))
