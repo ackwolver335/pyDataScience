@@ -1,0 +1,10 @@
+date,temperature,windspeed,event
+01/01/24,32 F,4 mph,Rain
+01/02/24,35,5,No event
+01/03/24,36,3,Snow
+01/04/24,37 F,3 mph,Sunny
+01/05/24,-999,-999,Snow
+01/06/24,39,6,Sunny
+01/07/24,29,-999,No event
+01/08/24,41,,Winter
+01/09/24,42,6,Cold
