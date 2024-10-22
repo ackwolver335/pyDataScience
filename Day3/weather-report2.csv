@@ -1,0 +1,10 @@
+date,city,temperature,windspeed,event
+01/01/24,newyork,17,4,Rain
+01/02/24,newyork,35,5,Sunny
+01/03/24,newyork,36,3,Fog
+01/04/24,mumbai,37,3,Sunny
+01/05/24,mumbai,38,7,Winter
+01/06/24,mumbai,39,6,Sunny
+01/07/24,paris,45,4,Summer
+01/08/24,paris,41,5,Winter
+01/09/24,paris,42,6,Cold
